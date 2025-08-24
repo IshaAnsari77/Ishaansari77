@@ -42,9 +42,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isha-ansari&show_icons=true&theme=radical" alt="github stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isha-ansari&theme=radical" alt="streak stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IshaAnsari77&show_icons=true&theme=radical" alt="github stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaAnsari77&theme=radical" alt="streak stats" height="160"/>
 </p>
+
 
 ---
 
